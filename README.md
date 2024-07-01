@@ -26,7 +26,7 @@ Just get a working version of Python. I would recommend to download [the latest 
 5. Create a new folder, *the name of it doesn't matter*.
 6. Move the JSON file into it.
 7. Download [main.py](https://github.com/Didward/Little-Alchemy-2/blob/bf0b3cd62c5c29e6b54504e6642fadb4989e0b95/main.py) and move it into the folder.
-8. Download [elements.json](https://github.com/Didward/Little-Alchemy-2/blob/bf0b3cd62c5c29e6b54504e6642fadb4989e0b95/elements.json) and move it into the folder. (it's a JSON file with all of the elements. Find out how I made the list [here](https://github.com/Didward/Little-Alchemy-2/blob/main/(for%20nerds)%20-%20How%20I%20Got%20All%20The%20Elements.md)
+8. Download [elements.json](https://github.com/Didward/Little-Alchemy-2/blob/bf0b3cd62c5c29e6b54504e6642fadb4989e0b95/elements.json) and move it into the folder. (it's a JSON file with all of the elements. Find out how I made the list [here](https://github.com/Didward/Little-Alchemy-2/blob/main/(for%20nerds)%20-%20How%20I%20Got%20All%20The%20Elements.md))
 9. In the folder with main.py and that JSON file created using the script, you should have a JSON file with your missing elements.
 
 ### HOW TO FIND OUT HOW TO MAKE YOUR MISSING ELEMENT ❓✔
