@@ -21,11 +21,13 @@ Just get a working version of Python. I would recommend to download [the latest 
 2. Open your browser's Developer Console:
    - Press `F12`, or
    - (For Chrome but not excluded to) Right-click on the page and select `Inspect`, then go to the `Console` tab.
-3. Copy and paste [collect.js](https://github.com/Didward/Little-Alchemy-2/collect.js) into the console
+3. Copy and paste [collect.js](https://github.com/Didward/Little-Alchemy-2/blob/bf0b3cd62c5c29e6b54504e6642fadb4989e0b95/collect.js) into the console
 4. Close the console and scroll abit down in your list of elements until all of the elements you saw at the start are gone, scroll back up and then scroll through the whole list (this ensures everything is captured), down to the bottom. Once done, press `E` on your keyboard.
-5. Move the JSON file into a new folder, *the name doesn't matter*.
-6. Download [main.py](https://github.com/Didward/Little-Alchemy-2/main.py) and move it into the folder then run it.
-7. In the folder with main.py and that JSON file created using the script, you should have a JSON file with your missing elements.
+5. Create a new folder, *the name of it doesn't matter*.
+6. Move the JSON file into it.
+7. Download [main.py](https://github.com/Didward/Little-Alchemy-2/blob/bf0b3cd62c5c29e6b54504e6642fadb4989e0b95/main.py) and move it into the folder.
+8. Download [elements.json](https://github.com/Didward/Little-Alchemy-2/blob/bf0b3cd62c5c29e6b54504e6642fadb4989e0b95/elements.json) and move it into the folder. (it's a JSON file with all of the elements. Find out how I made the list [here](https://github.com/Didward/Little-Alchemy-2/blob/main/(for%20nerds)%20-%20How%20I%20Got%20All%20The%20Elements.md)
+9. In the folder with main.py and that JSON file created using the script, you should have a JSON file with your missing elements.
 
 ### HOW TO FIND OUT HOW TO MAKE YOUR MISSING ELEMENT ❓✔
 1. If your element's name contains a space, replace it with a `-` (e.g. Fortune Cookie -> fortune-cookie)
